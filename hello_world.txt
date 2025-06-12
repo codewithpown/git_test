@@ -2,3 +2,6 @@
 haa It is actually good enough
 git 
 
+
+
+ok now i am testing on the new arch 
